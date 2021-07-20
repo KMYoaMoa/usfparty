@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 究極鹹魚黨 | 鰝蠌蔕蔮
+## U.S.F. Party | Empire of HZ·W
+powered by ```究極鹹魚黨中央宣傳委員會```
 
-You can use the [editor on GitHub](https://github.com/KMYoaMoa/usfparty.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## ☆ 歷史、介紹 ☆
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+四十年来，**应试教育**和**形式主义**在中国迅速发展。虽然这为家境贫困的学龄儿童提供了更大的接受高等教育的机会，促进了贫困人口的减少，但同时也严重地导致了中国人民的思想扭曲和固化以及家庭、学校教育方式和理念的大幅退步。如今，中国特色社会主义进入了新时代，中国的科技力量、军事力量和经济实力逐渐赶上了各发达国家，人民的物质生活得到显著改善。但由于对思想进步的不重视，不作为，错误的教育理念和思想已经深刻地影响了社会，并对新一代的少年儿童造成了巨大的伤害与误导。
 
-### Markdown
+因此，在脱贫攻坚战的决胜之年，在第一个百年任务即将完成的二零二零年十一月，一群有识之士齐聚一堂，创立了**究极咸鱼党**，决心在新时代为推动中国人民的思想解放与进步而努力奋斗。党中央宣委委员长**Kareno**设计发布了党旗和党徽。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+数月之后，究极咸鱼党创始人之一**HZ·W**（化名）为了每天晚上都可以抱着珂爱的女孩子睡觉，发动西红柿炒鸡蛋政变，将究极咸鱼党改造为君主专制革命党派并称帝，名曰**浩择皇帝**，**鰝蠌蔕蔮**成立。至此，HZ市某兰中学的第一个君主专制革命党派、**君主专制**的[**国家社会主义**](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89)国家诞生。究极咸鱼党各创始人均赞成帝制，党中央讨论决定，将每年十月十七日定为建党纪念日和国庆日。
 
-```markdown
-Syntax highlighted code block
+鰝蠌蔕蔮成立后，浩择皇帝发明了鰝蠌蔕蔮的官方语言**浩择语**，党中央宣委委员长**Kareno**设计了浩择语的文字。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KMYoaMoa/usfparty.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+二零二零年八月成立的自由天堂网络共和国在二零二一年七月初迅速发展，**Kareno**成为该国的最高支配着。二零二一年七月十九日，**Kareno**决定，**鰝蠌蔕蔮**与**自由天堂网络共和国**建交。

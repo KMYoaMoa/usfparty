@@ -2,6 +2,7 @@
 ## U.S.F. Party | Empire of HZ·W
 powered by ```究極鹹魚黨中央宣傳委員會```
 
+<img src="https://kmyoamoa.github.io/usfparty/src/Symbol_Colored.png" style="zoom:50%" />
 ![黨徽](https://kmyoamoa.github.io/usfparty/src/Symbol_Colored.png =400x400)
 
 ## ☆ 歷史、介紹 ☆

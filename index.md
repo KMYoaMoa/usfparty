@@ -4,6 +4,8 @@ powered by ```究極鹹魚黨中央宣傳委員會```
 
 <img src="https://kmyoamoa.github.io/usfparty/src/Title.png"/>
 
+## ☆党刊《[鱼眼](https://kmyoamoa.github.io/usfparty/fisheye/fisheye_introduction.md)》☆
+
 ## ☆ 歷史、介紹 ☆
 
 二零二零年十一月，党中央宣委委员长**Kareno**设计发布了党旗和党徽。

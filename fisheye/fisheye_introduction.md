@@ -8,7 +8,7 @@
 
 ---
 
-## [目录](https://kmyoamoa.github.io/usfparty/fisheye/fisheye_index.md)
+## [目录](https://kmyoamoa.github.io/usfparty/fisheye/fisheye_index)
 
 ---
 

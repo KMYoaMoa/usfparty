@@ -1,6 +1,6 @@
 # 目录
 
-[发刊词](https://kmyoamoa.github.io/usfparty/fisheye/fisheye_introduction.md)
+[发刊词](https://kmyoamoa.github.io/usfparty/fisheye/fisheye_introduction)
 
 2022-01 灰色的21世纪 (预告) Kareno编
 

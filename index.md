@@ -4,7 +4,7 @@ powered by ```究極鹹魚黨中央宣傳委員會```
 
 <img src="https://kmyoamoa.github.io/usfparty/src/Title.png"/>
 
-## ☆党刊《[鱼眼](https://kmyoamoa.github.io/usfparty/fisheye/fisheye_introduction.md)》☆
+## ☆党刊《[鱼眼](https://kmyoamoa.github.io/usfparty/fisheye/fisheye_introduction)》☆
 
 ## ☆ 歷史、介紹 ☆
 
